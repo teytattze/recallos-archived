@@ -2,6 +2,8 @@
 
 Semantic code memory system. Index source code into vector embeddings and search over them with natural language.
 
+This repository can also be used to validate merge-request automation workflows.
+
 ## Setup
 
 ### Prerequisites
